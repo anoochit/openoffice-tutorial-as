@@ -1,0 +1,7 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_update"
+        android:title="@string/menu_update"
+        android:orderInCategory="100"
+        android:showAsAction="never"/>
+    <item android:id="@+id/menu_share" android:title="@string/menu_share"></item>
+</menu>

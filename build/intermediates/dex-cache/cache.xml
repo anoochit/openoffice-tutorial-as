@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/xavier/Project/openoffice-tutorial-as/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-bebe8ab0b94565fe632887fde09c5309ba526985.jar"
+        jar="/Users/xavier/Project/openoffice-tutorial-as/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="/Users/xavier/Project/openoffice-tutorial-as/app/build/intermediates/pre-dexed/debug/classes-a259f00dc00c0d2516ed9011114f5f37dd8dffe6.jar"
+        jar="/Users/xavier/Project/openoffice-tutorial-as/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="/Users/xavier/Project/openoffice-tutorial-as/app/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-08202da974824c4d0548aebb8a54c5ca1c6afef9.jar"
+        jar="/Users/xavier/adt-bundle-mac-x86_64/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="/Users/xavier/Project/openoffice-tutorial-as/app/build/intermediates/pre-dexed/debug/StartAppInApp-2.4.1-54f639fc31a306060533bc0f1d635380cad48ed2.jar"
+        jar="/Users/xavier/Project/openoffice-tutorial-as/app/libs/StartAppInApp-2.4.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="12356c21c15e847fce0d686b7b2003be119816fe"/>
+    <item
+        dex="/Users/xavier/Project/openoffice-tutorial-as/app/build/intermediates/pre-dexed/debug/classes-ad819a3722c6dd1d1e2bcec4ee4717a515d98d7b.jar"
+        jar="/Users/xavier/Project/openoffice-tutorial-as/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/5.0.77/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="b6a82434c1eca686607867cd906bcc80ed987837"/>
+
+</pre-dex-items>
